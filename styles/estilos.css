@@ -31,14 +31,15 @@ body {
 .profile-card {
     background-color: var(--grey-800);
     border-radius: 10px;
-    max-width: 375px;
+    max-width: 420px;
+    width: 100%;
+    padding: 50px;
 }
 
 .profile-header {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 50px;
 }
 
 .profile-avatar {
@@ -62,6 +63,28 @@ body {
 
 .profile-description {
     font-size: var(--font-size-paragraph);
+}
+
+.profile-links {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 17px;
+    margin-top: 30px;
+    font-size: var(--font-size-paragraph);
+    font-weight: bold;
+}
+
+.profile-link {
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 15px;
+    margin: 0 auto;
+    border-radius: 5px;
+    background-color: var(--grey-700);
+    color: var(--white);
+    text-decoration: none;
 }
 
 /* .attribution {
