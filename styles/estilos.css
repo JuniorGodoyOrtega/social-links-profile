@@ -87,11 +87,11 @@ body {
     text-decoration: none;
 }
 
-/* .attribution {
+.attribution {
     font-size: 11px;
     text-align: center;
     color: var(--white);
-    margin-top: 20px;
+    margin-top: -20px;
     font-size: 11px;
 }
 
@@ -99,5 +99,4 @@ body {
     color: var(--green);
     text-decoration: none;
     font-weight: bold;
-} */
-
+}
