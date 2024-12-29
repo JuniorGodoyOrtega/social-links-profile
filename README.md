@@ -12,7 +12,7 @@ Este proyecto es una práctica de desarrollo frontend basada en un desafío de F
 - Git y GitHub para el control de versiones y despliegue
 
 ## Lecciones aprendidas
-- Manejo de estilos hover/focus en botones y enlaces
+- Manejo de estilos hover en botones y enlaces
 - Diseño responsivo en pantallas pequeñas y grandes
 - Uso de fuentes, paleta de colores y tipografía recomendada
 

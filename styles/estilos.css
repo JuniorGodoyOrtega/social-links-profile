@@ -87,6 +87,11 @@ body {
     text-decoration: none;
 }
 
+.profile-link:hover {
+    background-color: var(--green);
+    color: var(--grey-700);
+}
+
 .attribution {
     font-size: 11px;
     text-align: center;
