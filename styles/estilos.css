@@ -18,13 +18,13 @@ body {
     font-family: 'Inter', sans-serif;
     background-color: var(--grey-900);
     color: var(--white);
-    max-width: 1440px;
 }
 
 .container {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
     height: 100vh;
 }
 
@@ -96,7 +96,7 @@ body {
     font-size: 11px;
     text-align: center;
     color: var(--white);
-    margin-top: -20px;
+    margin-top: 15px;
     font-size: 11px;
 }
 
@@ -106,7 +106,7 @@ body {
     font-weight: bold;
 }
 
-@media screen and (min-width: 375px) {
+@media screen and (max-width: 376px) {
     .container {
         width: 85%;
         margin: 0 auto;
