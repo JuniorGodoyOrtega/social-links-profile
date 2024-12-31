@@ -23,4 +23,4 @@ Este proyecto es una práctica de desarrollo frontend basada en un desafío de F
 1. Puedes ver el sitio en vivo en: [Social Links Profile - Frontend Mentor Challenge](https://juniorgodoyortega.github.io/social-links-profile/)
 2. O clonar este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/social-links-profile.git
+   git clone https://github.com/JuniorGodoyOrtega/social-links-profile.git
